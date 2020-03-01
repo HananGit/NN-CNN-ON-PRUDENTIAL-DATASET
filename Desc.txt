@@ -1,4 +1,0 @@
-PART 1:
-Run neural networks on Prudential Insurance dataset 
-PART 2:
-Fit Convolutional Neural Network (CNN) to Semeion Handwritten Digit Data by finding the optimum number of hidden layers and related nodes
